@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+.nav-list, .recipes-list {
+    list-style: none;
+}
+
+.ingredients, .steps {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
